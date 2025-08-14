@@ -2,10 +2,8 @@
   "name": "harshit-portfolio-enhanced",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://harshit001-2023.github.io/harshitpande001-2023-portfolio.github.io",
+
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo https://github.com/harshit001-2023/harshitpande001-2023-portfolio.github.io.git",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
@@ -30,12 +28,5 @@
     "prettier": "^3.6.2",
     "tailwindcss": "^4.1.11",
     "vite": "^7.1.2"
-  },
-  "ghpages": {
-    "publish": {
-      "dist": {
-        "repo": "https://github.com/harshit001-2023/harshitpande001-2023-portfolio.github.io.git"
-      }
-    }
   }
 }
