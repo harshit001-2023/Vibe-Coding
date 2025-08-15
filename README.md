@@ -4,7 +4,6 @@ Modern, interactive portfolio website built with React, Framer Motion, and Tailw
 
 ## ✨ Features
 
-- **Nothing OS Aesthetic**: Clean, minimal design with glassmorphism effects
 - **Smooth Animations**: Framer Motion powered transitions and micro-interactions
 - **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - **Interactive Elements**: Hover effects, animated skill progress bars, floating particles
